@@ -1,0 +1,164 @@
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\appsettings.json
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\EmployeePerformanceTracker.exe
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\EmployeePerformanceTracker.deps.json
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\EmployeePerformanceTracker.runtimeconfig.json
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\EmployeePerformanceTracker.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\ref\EmployeePerformanceTracker.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\EmployeePerformanceTracker.pdb
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\EmployeePerformanceTracker.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\EmployeePerformanceTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\EmployeePerformanceTracker.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\EmployeePerformanceTracker.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\EmployeePerformanceTracker.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\EmployeePerformanceTracker.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\EmployeePerformanceTracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\scopedcss\bundle\EmployeePerformanceTracker.styles.css
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\EmployeePerformanceTracker.csproj.CopyComplete
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\EmployeePerformanceTracker.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\ref\EmployeePerformanceTracker.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\EmployeePerformanceTracker.pdb
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\EmployeePerformanceTracker.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Humanizer.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\KIIT\Desktop\CAPGEMINI PROJECT TASK\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\appsettings.Development.json
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\appsettings.json
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\EmployeePerformanceTracker.exe
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\EmployeePerformanceTracker.deps.json
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\EmployeePerformanceTracker.runtimeconfig.json
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\EmployeePerformanceTracker.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\EmployeePerformanceTracker.pdb
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Azure.Core.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Azure.Identity.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Humanizer.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\System.CodeDom.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\System.Memory.Data.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\System.Text.Json.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\EmployeePerformanceTracker.csproj.AssemblyReference.cache
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\EmployeePerformanceTracker.GeneratedMSBuildEditorConfig.editorconfig
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\EmployeePerformanceTracker.AssemblyInfoInputs.cache
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\EmployeePerformanceTracker.AssemblyInfo.cs
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\EmployeePerformanceTracker.csproj.CoreCompileInputs.cache
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\EmployeePerformanceTracker.MvcApplicationPartsAssemblyInfo.cs
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\EmployeePerformanceTracker.MvcApplicationPartsAssemblyInfo.cache
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\staticwebassets.build.json
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\staticwebassets.development.json
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\scopedcss\bundle\EmployeePerformanceTracker.styles.css
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\EmployeePerformanceTracker.csproj.CopyComplete
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\EmployeePerformanceTracker.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\refint\EmployeePerformanceTracker.dll
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\EmployeePerformanceTracker.pdb
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\EmployeePerformanceTracker.genruntimeconfig.cache
+E:\EmployeePerformanceTracker\EmployeePerformanceTracker\obj\Debug\net6.0\ref\EmployeePerformanceTracker.dll
